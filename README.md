@@ -1,2 +1,0 @@
-# CIBER
-GitHub Pages
